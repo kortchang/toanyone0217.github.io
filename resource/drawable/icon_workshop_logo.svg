@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66.556 66.318">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #707070;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="icon_workshop_logo" transform="translate(-46.825 -38.779)">
+    <g id="Rectangle_5" data-name="Rectangle 5" class="cls-1" transform="translate(47 39)">
+      <rect class="cls-3" width="66" height="66"/>
+      <rect class="cls-4" x="1" y="1" width="64" height="64"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" class="cls-2" d="M5997,183l65.144,64.9" transform="translate(-5949.469 -143.513)"/>
+    <path id="Path_2" data-name="Path 2" class="cls-2" d="M5997,183l64.9,65.144" transform="translate(295.675 -5957.512) rotate(90)"/>
+  </g>
+</svg>

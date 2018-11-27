@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181.399 49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="button_followUs_filled" transform="translate(-530 -872)">
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="181.399" height="49" transform="translate(530 872)"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(0 -3)">
+      <line id="Line_5" data-name="Line 5" class="cls-1" x2="28" transform="translate(671.5 899.5)"/>
+      <path id="Path_3" data-name="Path 3" class="cls-1" d="M6427.886,1058.407l10.849,10.849-10.849,10.849" transform="translate(-5739 -170)"/>
+    </g>
+  </g>
+</svg>

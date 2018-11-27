@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css?family=Karla");
+
+* {
+    color: white;
+}
+
+.top_banner_container {
+    background-color: #262626;
+    padding: 30px;
+}
+
+.workshop_container {
+    display: inline-block;
+}
+
+.workshop_container h1 {
+    display: inline;
+    text-transform: uppercase;
+    font-family: Karla;
+    font-size: 40px;
+}
+
+.product_name_container {
+    display: inline-block;
+    position: relative;
+    top: 150px;
+}
+
+.product_name_container h1 {
+    font-family: Letter Gothic Std;
+    font-size: 100px;
+    margin: 0;
+}
+
+.card_container {
+    position: relative;
+    top: 200px;
+    width: 665px;
+    height: 400px;
+    background-color: white;
+}
+
+.card_container h1 {
+    color: black;
+    font-family: "Noto Sans Mono CJK TC";
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.button_followUs_container {
+    
+    background-image: url("../resource/drawable/button_followUs_filled.svg");
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 200px;
+    height: 60px;
+}

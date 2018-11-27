@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181.399 49">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #000;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="button_followUs_stroke" class="cls-1">
+    <rect class="cls-2" width="181.399" height="49"/>
+    <rect class="cls-3" x="1.5" y="1.5" width="178.399" height="46"/>
+  </g>
+</svg>
